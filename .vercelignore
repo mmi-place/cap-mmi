@@ -1,0 +1,7 @@
+.env*
+!.env.example
+.data/
+.next/
+coverage/
+node_modules/
+npm-debug.log*

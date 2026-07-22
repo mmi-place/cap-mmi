@@ -1,0 +1,2539 @@
+[
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-communication-innovation-mediations-etudes-alt",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — INFORMATION, COMMUNICATION",
+    "title": "Communication, Innovation, Médiations, Études",
+    "specialty": "Communication numérique",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 20,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 20,
+      "applicants": 1041,
+      "overallOfferRate": 1.2,
+      "but3Applicants": 125,
+      "but3Offers": 3,
+      "but3OfferRate": 2.4,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-conception-sonore-ini",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Conception sonore",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 6,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 6,
+      "applicants": 71,
+      "overallOfferRate": 8.5,
+      "but3Applicants": 11,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-conception-visuelle-ini",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Conception visuelle",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 13,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 13,
+      "applicants": 206,
+      "overallOfferRate": 6.8,
+      "but3Applicants": 38,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-ergonomie-ux-ui-ini",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Ergonomie UX/UI",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 6,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 6,
+      "applicants": 119,
+      "overallOfferRate": 5,
+      "but3Applicants": 30,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-game-design-ini",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Game design",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 197,
+      "overallOfferRate": 6.1,
+      "but3Applicants": 26,
+      "but3Offers": 1,
+      "but3OfferRate": 3.8,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-management-de-projet-ini",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Management de projet",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 6,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 6,
+      "applicants": 73,
+      "overallOfferRate": 9.6,
+      "but3Applicants": 9,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-conservatoire-national-des-arts-et-metiers-programmation-ini",
+    "type": "master",
+    "institution": "Conservatoire national des arts et métiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Programmation",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Angoulême / Paris",
+    "latitude": 45.6484,
+    "longitude": 0.1562,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 13,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 13,
+      "applicants": 142,
+      "overallOfferRate": 9.2,
+      "but3Applicants": 47,
+      "but3Offers": 1,
+      "but3OfferRate": 2.1,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-institut-national-des-sciences-appliquees-hauts-de-france-ingenierie-des-systemes-images-et-sons-alt",
+    "type": "master",
+    "institution": "Institut national des sciences appliquées Hauts-de-France",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "INGÉNIERIE DES SYSTÈMES IMAGES ET SONS",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Valenciennes",
+    "latitude": 50.357,
+    "longitude": 3.523,
+    "region": "Hauts-de-France",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 20,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 20,
+      "applicants": 156,
+      "overallOfferRate": 5.1,
+      "but3Applicants": 20,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-institut-national-des-sciences-appliquees-hauts-de-france-postproduction-ini",
+    "type": "master",
+    "institution": "Institut national des sciences appliquées Hauts-de-France",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "POSTPRODUCTION",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Valenciennes",
+    "latitude": 50.357,
+    "longitude": 3.523,
+    "region": "Hauts-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 24,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 24,
+      "applicants": 203,
+      "overallOfferRate": 14.3,
+      "but3Applicants": 41,
+      "but3Offers": 1,
+      "but3OfferRate": 2.4,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-institut-national-des-sciences-appliquees-hauts-de-france-productions-ini",
+    "type": "master",
+    "institution": "Institut national des sciences appliquées Hauts-de-France",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "PRODUCTIONS",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Valenciennes",
+    "latitude": 50.357,
+    "longitude": 3.523,
+    "region": "Hauts-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 24,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 24,
+      "applicants": 260,
+      "overallOfferRate": 12.7,
+      "but3Applicants": 40,
+      "but3Offers": 4,
+      "but3OfferRate": 10,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-institut-national-universitaire-jean-francois-champollion-gamification-alternance-apprentissages-immersion-et-ingenierie-de-conception-alt",
+    "type": "master",
+    "institution": "Institut national universitaire Jean-François Champollion",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Gamification| Alternance - Apprentissages| iMmersion et ingEnierie de conception",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Albi",
+    "latitude": 43.9298,
+    "longitude": 2.148,
+    "region": "Occitanie",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 5,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 5,
+      "applicants": 71,
+      "overallOfferRate": 0,
+      "but3Applicants": 8,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-institut-national-universitaire-jean-francois-champollion-gamification-alternance-apprentissages-immersion-et-ingenierie-de-conception-ini",
+    "type": "master",
+    "institution": "Institut national universitaire Jean-François Champollion",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Gamification| Alternance - Apprentissages| iMmersion et ingEnierie de conception",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Albi",
+    "latitude": 43.9298,
+    "longitude": 2.148,
+    "region": "Occitanie",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 14,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 14,
+      "applicants": 107,
+      "overallOfferRate": 53.3,
+      "but3Applicants": 13,
+      "but3Offers": 11,
+      "but3OfferRate": 84.6,
+      "but3Acceptances": 5,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-la-rochelle-universite-direction-de-projets-audiovisuels-et-numeriques-ini",
+    "type": "master",
+    "institution": "La Rochelle Université",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Direction de projets audiovisuels et numériques",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "La Rochelle",
+    "latitude": 46.1603,
+    "longitude": -1.1511,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 10,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 10,
+      "applicants": 226,
+      "overallOfferRate": 6.2,
+      "but3Applicants": 40,
+      "but3Offers": 1,
+      "but3OfferRate": 2.5,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-bordeaux-montaigne-interaction-innovation-service-ini",
+    "type": "master",
+    "institution": "Université Bordeaux Montaigne",
+    "degree": "Diplôme national de master — DESIGN",
+    "title": "INTERACTION, INNOVATION, SERVICE",
+    "specialty": "UX & design",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Pessac",
+    "latitude": 44.8067,
+    "longitude": -0.605,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 18,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "UX/UI designer",
+      "Product designer",
+      "Design de services"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 18,
+      "applicants": 143,
+      "overallOfferRate": 24.5,
+      "but3Applicants": 8,
+      "but3Offers": 3,
+      "but3OfferRate": 37.5,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-lille-communication-des-organisations-en-apprentissage-alt",
+    "type": "master",
+    "institution": "Université de Lille",
+    "degree": "Diplôme national de master — INFORMATION, COMMUNICATION",
+    "title": "Communication des organisations - en apprentissage",
+    "specialty": "Communication numérique",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Lille",
+    "latitude": 50.6292,
+    "longitude": 3.0573,
+    "region": "Hauts-de-France",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 20,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 20,
+      "applicants": 432,
+      "overallOfferRate": 3.5,
+      "but3Applicants": 76,
+      "but3Offers": 7,
+      "but3OfferRate": 9.2,
+      "but3Acceptances": 5,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-limoges-codux-co-design-et-experience-utilisateur-pour-interfaces-numeriques-sensorielles-ini",
+    "type": "master",
+    "institution": "Université de Limoges",
+    "degree": "Diplôme national de master — CULTURE ET COMMUNICATION",
+    "title": "COdUX : CO-DESIGN ET EXPERIENCE UTILISATEUR POUR INTERFACES NUMERIQUES SENSORIELLES",
+    "specialty": "UX & design",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Limoges",
+    "latitude": 45.8336,
+    "longitude": 1.2611,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 8,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "UX/UI designer",
+      "Product designer",
+      "Design de services"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 8,
+      "applicants": 70,
+      "overallOfferRate": 40,
+      "but3Applicants": 29,
+      "but3Offers": 12,
+      "but3OfferRate": 41.4,
+      "but3Acceptances": 3,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-limoges-codux-co-design-et-experience-utilisateur-pour-interfaces-numeriques-sensorielles-alt",
+    "type": "master",
+    "institution": "Université de Limoges",
+    "degree": "Diplôme national de master — CULTURE ET COMMUNICATION",
+    "title": "COdUX : CO-DESIGN ET EXPERIENCE UTILISATEUR POUR INTERFACES NUMERIQUES SENSORIELLES",
+    "specialty": "UX & design",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Limoges",
+    "latitude": 45.8336,
+    "longitude": 1.2611,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "UX/UI designer",
+      "Product designer",
+      "Design de services"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 85,
+      "overallOfferRate": 2.4,
+      "but3Applicants": 29,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-lorraine-conception-de-dispositifs-ludiques-cdl-ini",
+    "type": "master",
+    "institution": "Université de Lorraine",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Conception de dispositifs ludiques (CDL)",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Nancy",
+    "latitude": 48.6921,
+    "longitude": 6.1844,
+    "region": "Grand Est",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 18,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 18,
+      "applicants": 118,
+      "overallOfferRate": 22.9,
+      "but3Applicants": 18,
+      "but3Offers": 4,
+      "but3OfferRate": 22.2,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-lorraine-creation-de-projets-numeriques-cpn-ini",
+    "type": "master",
+    "institution": "Université de Lorraine",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Création de projets numériques (CPN)",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Nancy",
+    "latitude": 48.6921,
+    "longitude": 6.1844,
+    "region": "Grand Est",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 23,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 23,
+      "applicants": 117,
+      "overallOfferRate": 40.2,
+      "but3Applicants": 29,
+      "but3Offers": 12,
+      "but3OfferRate": 41.4,
+      "but3Acceptances": 7,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-montpellier-paul-valery-communication-numerique-et-organisations-ini",
+    "type": "master",
+    "institution": "Université de Montpellier Paul-Valéry",
+    "degree": "Diplôme national de master — INFORMATION, COMMUNICATION",
+    "title": "Communication numérique et organisations",
+    "specialty": "Communication numérique",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Montpellier",
+    "latitude": 43.6108,
+    "longitude": 3.8767,
+    "region": "Occitanie",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 24,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 24,
+      "applicants": 604,
+      "overallOfferRate": 11.1,
+      "but3Applicants": 130,
+      "but3Offers": 15,
+      "but3OfferRate": 11.5,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-pau-et-des-pays-de-l-adour-systemes-informatiques-pour-le-genie-de-la-logistique-industrielle-et-des-services-siglis-ini",
+    "type": "master",
+    "institution": "Université de Pau et des Pays de l'Adour",
+    "degree": "Diplôme national de master — INFORMATIQUE",
+    "title": "Systèmes Informatiques pour le Génie de la Logistique Industrielle et des Services (SIGLIS)",
+    "specialty": "Développement",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Pau",
+    "latitude": 43.2951,
+    "longitude": -0.3708,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 5,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "faible",
+    "prerequisites": [
+      "Algorithmique et programmation",
+      "Mathématiques à consolider",
+      "Projets techniques"
+    ],
+    "outcomes": [
+      "Développeur logiciel",
+      "Ingénierie logicielle",
+      "Data / systèmes"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 5,
+      "applicants": 44,
+      "overallOfferRate": 40.9,
+      "but3Applicants": 20,
+      "but3Offers": 6,
+      "but3OfferRate": 30,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-pau-et-des-pays-de-l-adour-systemes-informatiques-pour-le-genie-de-la-logistique-industrielle-et-des-services-siglis-alt",
+    "type": "master",
+    "institution": "Université de Pau et des Pays de l'Adour",
+    "degree": "Diplôme national de master — INFORMATIQUE",
+    "title": "Systèmes Informatiques pour le Génie de la Logistique Industrielle et des Services (SIGLIS)",
+    "specialty": "Développement",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Pau",
+    "latitude": 43.2951,
+    "longitude": -0.3708,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 15,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "faible",
+    "prerequisites": [
+      "Algorithmique et programmation",
+      "Mathématiques à consolider",
+      "Projets techniques"
+    ],
+    "outcomes": [
+      "Développeur logiciel",
+      "Ingénierie logicielle",
+      "Data / systèmes"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 15,
+      "applicants": 69,
+      "overallOfferRate": 18.8,
+      "but3Applicants": 33,
+      "but3Offers": 10,
+      "but3OfferRate": 30.3,
+      "but3Acceptances": 7,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-poitiers-management-du-jeu-et-des-pratiques-ludiques-ini",
+    "type": "master",
+    "institution": "Université de Poitiers",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "Management du Jeu et des Pratiques Ludiques",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Poitiers",
+    "latitude": 46.5802,
+    "longitude": 0.3404,
+    "region": "Nouvelle-Aquitaine",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 19,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 19,
+      "applicants": 131,
+      "overallOfferRate": 25.2,
+      "but3Applicants": 15,
+      "but3Offers": 3,
+      "but3OfferRate": 20,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-rennes-m1-ingenierie-logicielle-il-alt",
+    "type": "master",
+    "institution": "Université de Rennes",
+    "degree": "Diplôme national de master — INFORMATIQUE",
+    "title": "M1 Ingénierie Logicielle (IL)",
+    "specialty": "Développement",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Rennes",
+    "latitude": 48.1173,
+    "longitude": -1.6778,
+    "region": "Bretagne",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 20,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "faible",
+    "prerequisites": [
+      "Algorithmique et programmation",
+      "Mathématiques à consolider",
+      "Projets techniques"
+    ],
+    "outcomes": [
+      "Développeur logiciel",
+      "Ingénierie logicielle",
+      "Data / systèmes"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 20,
+      "applicants": 843,
+      "overallOfferRate": 3,
+      "but3Applicants": 245,
+      "but3Offers": 14,
+      "but3OfferRate": 5.7,
+      "but3Acceptances": 11,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-rennes-m1-ingenierie-logicielle-il-ini",
+    "type": "master",
+    "institution": "Université de Rennes",
+    "degree": "Diplôme national de master — INFORMATIQUE",
+    "title": "M1 Ingénierie Logicielle (IL)",
+    "specialty": "Développement",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Rennes",
+    "latitude": 48.1173,
+    "longitude": -1.6778,
+    "region": "Bretagne",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 35,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "faible",
+    "prerequisites": [
+      "Algorithmique et programmation",
+      "Mathématiques à consolider",
+      "Projets techniques"
+    ],
+    "outcomes": [
+      "Développeur logiciel",
+      "Ingénierie logicielle",
+      "Data / systèmes"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 35,
+      "applicants": 892,
+      "overallOfferRate": 10.2,
+      "but3Applicants": 201,
+      "but3Offers": 4,
+      "but3OfferRate": 2,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-toulon-communication-digitale-et-editoriale-cde-ini",
+    "type": "master",
+    "institution": "Université de Toulon",
+    "degree": "Diplôme national de master — INFORMATION, COMMUNICATION",
+    "title": "Communication Digitale et Editoriale CDE",
+    "specialty": "Communication numérique",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Toulon",
+    "latitude": 43.1242,
+    "longitude": 5.928,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 40,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 40,
+      "applicants": 553,
+      "overallOfferRate": 19.9,
+      "but3Applicants": 106,
+      "but3Offers": 36,
+      "but3OfferRate": 34,
+      "but3Acceptances": 6,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-toulouse-sciences-du-logiciel-sdl-ini",
+    "type": "master",
+    "institution": "Université de Toulouse",
+    "degree": "Diplôme national de master — INFORMATIQUE",
+    "title": "Sciences du Logiciel (SDL)",
+    "specialty": "Développement",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Toulouse",
+    "latitude": 43.6047,
+    "longitude": 1.4442,
+    "region": "Occitanie",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 21,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "faible",
+    "prerequisites": [
+      "Algorithmique et programmation",
+      "Mathématiques à consolider",
+      "Projets techniques"
+    ],
+    "outcomes": [
+      "Développeur logiciel",
+      "Ingénierie logicielle",
+      "Data / systèmes"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 21,
+      "applicants": 723,
+      "overallOfferRate": 13.6,
+      "but3Applicants": 105,
+      "but3Offers": 2,
+      "but3OfferRate": 1.9,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-de-toulouse-sciences-du-logiciel-sdl-alt",
+    "type": "master",
+    "institution": "Université de Toulouse",
+    "degree": "Diplôme national de master — INFORMATIQUE",
+    "title": "Sciences du Logiciel (SDL)",
+    "specialty": "Développement",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Toulouse",
+    "latitude": 43.6047,
+    "longitude": 1.4442,
+    "region": "Occitanie",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 21,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "faible",
+    "prerequisites": [
+      "Algorithmique et programmation",
+      "Mathématiques à consolider",
+      "Projets techniques"
+    ],
+    "outcomes": [
+      "Développeur logiciel",
+      "Ingénierie logicielle",
+      "Data / systèmes"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 21,
+      "applicants": 685,
+      "overallOfferRate": 0.4,
+      "but3Applicants": 142,
+      "but3Offers": 1,
+      "but3OfferRate": 0.7,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-grenoble-alpes-m1-direction-de-projets-audiovisuels-ini",
+    "type": "master",
+    "institution": "Université Grenoble Alpes",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "M1 - Direction de projets audiovisuels",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Grenoble",
+    "latitude": 45.1885,
+    "longitude": 5.7245,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 214,
+      "overallOfferRate": 19.6,
+      "but3Applicants": 40,
+      "but3Offers": 11,
+      "but3OfferRate": 27.5,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-grenoble-alpes-m1-direction-de-projets-numeriques-ini",
+    "type": "master",
+    "institution": "Université Grenoble Alpes",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "M1 - Direction de projets numériques",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Grenoble",
+    "latitude": 45.1885,
+    "longitude": 5.7245,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 154,
+      "overallOfferRate": 24.7,
+      "but3Applicants": 45,
+      "but3Offers": 12,
+      "but3OfferRate": 26.7,
+      "but3Acceptances": 3,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-grenoble-alpes-m1-direction-de-projets-videoludiques-ini",
+    "type": "master",
+    "institution": "Université Grenoble Alpes",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "M1 - Direction de projets vidéoludiques",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Grenoble",
+    "latitude": 45.1885,
+    "longitude": 5.7245,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 120,
+      "overallOfferRate": 32.5,
+      "but3Applicants": 25,
+      "but3Offers": 11,
+      "but3OfferRate": 44,
+      "but3Acceptances": 3,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-gustave-eiffel-cultures-et-metiers-du-web-alt",
+    "type": "master",
+    "institution": "Université Gustave Eiffel",
+    "degree": "Diplôme national de master — SCIENCES SOCIALES",
+    "title": "Cultures et métiers du web",
+    "specialty": "Communication numérique",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Champs-sur-Marne",
+    "latitude": 48.8529,
+    "longitude": 2.6037,
+    "region": "Île-de-France",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 36,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 36,
+      "applicants": 342,
+      "overallOfferRate": 0.3,
+      "but3Applicants": 41,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-gustave-eiffel-management-innovation-de-services-et-numerique-mitic-alt",
+    "type": "master",
+    "institution": "Université Gustave Eiffel",
+    "degree": "Diplôme national de master — MANAGEMENT DE L'INNOVATION",
+    "title": "Management, innovation de services et numérique (MITIC)",
+    "specialty": "Produit & projets numériques",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Champs-sur-Marne",
+    "latitude": 48.8529,
+    "longitude": 2.6037,
+    "region": "Île-de-France",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 25,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 25,
+      "applicants": 616,
+      "overallOfferRate": 5,
+      "but3Applicants": 116,
+      "but3Offers": 9,
+      "but3OfferRate": 7.8,
+      "but3Acceptances": 8,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-jean-monnet-design-de-communication-innovation-et-mediation-numerique-alt",
+    "type": "master",
+    "institution": "Université Jean Monnet",
+    "degree": "Diplôme national de master — INFORMATION, COMMUNICATION",
+    "title": "Design de communication : innovation et médiation numérique",
+    "specialty": "UX & design",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Saint-Étienne",
+    "latitude": 45.4397,
+    "longitude": 4.3872,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "UX/UI designer",
+      "Product designer",
+      "Design de services"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 171,
+      "overallOfferRate": 5.3,
+      "but3Applicants": 37,
+      "but3Offers": 1,
+      "but3OfferRate": 2.7,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-jean-monnet-design-de-communication-innovation-et-mediation-numerique-ini",
+    "type": "master",
+    "institution": "Université Jean Monnet",
+    "degree": "Diplôme national de master — INFORMATION, COMMUNICATION",
+    "title": "Design de communication : innovation et médiation numérique",
+    "specialty": "UX & design",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Saint-Étienne",
+    "latitude": 45.4397,
+    "longitude": 4.3872,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "UX/UI designer",
+      "Product designer",
+      "Design de services"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 189,
+      "overallOfferRate": 32.8,
+      "but3Applicants": 41,
+      "but3Offers": 16,
+      "but3OfferRate": 39,
+      "but3Acceptances": 3,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-jean-moulin-lyon-3-designer-scenariste-de-projets-audiovisuels-multisupports-ini",
+    "type": "master",
+    "institution": "Université Jean Moulin - Lyon 3",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "DESIGNER SCENARISTE DE PROJETS AUDIOVISUELS MULTISUPPORTS",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Lyon",
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 11,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 11,
+      "applicants": 202,
+      "overallOfferRate": 8.9,
+      "but3Applicants": 28,
+      "but3Offers": 3,
+      "but3OfferRate": 10.7,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-jean-moulin-lyon-3-formes-et-plateformes-televisuelles-ini",
+    "type": "master",
+    "institution": "Université Jean Moulin - Lyon 3",
+    "degree": "Diplôme national de master — AUDIOVISUEL, MEDIAS INTERACTIFS NUMERIQUES, JEUX",
+    "title": "FORMES ET PLATEFORMES TELEVISUELLES",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Lyon",
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "region": "Auvergne-Rhône-Alpes",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 12,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 12,
+      "applicants": 125,
+      "overallOfferRate": 25.6,
+      "but3Applicants": 18,
+      "but3Offers": 7,
+      "but3OfferRate": 38.9,
+      "but3Acceptances": 5,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-paris-8-vincennes-saint-denis-arts-et-technologies-de-l-image-virtuelle-ini",
+    "type": "master",
+    "institution": "Université Paris 8 - Vincennes - Saint-Denis",
+    "degree": "Diplôme national de master — CREATION NUMERIQUE",
+    "title": "Arts et technologies de l'image virtuelle",
+    "specialty": "Audiovisuel & 3D",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Saint-Denis",
+    "latitude": 48.9362,
+    "longitude": 2.3574,
+    "region": "Île-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 27,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet audiovisuel",
+      "Conception multimédia",
+      "Postproduction"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 27,
+      "applicants": 413,
+      "overallOfferRate": 7,
+      "but3Applicants": 51,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-paris-8-vincennes-saint-denis-creation-et-edition-numeriques-ini",
+    "type": "master",
+    "institution": "Université Paris 8 - Vincennes - Saint-Denis",
+    "degree": "Diplôme national de master — HUMANITES NUMERIQUES",
+    "title": "Création et édition numériques",
+    "specialty": "Communication numérique",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Saint-Denis",
+    "latitude": 48.9362,
+    "longitude": 2.3574,
+    "region": "Île-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 20,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 20,
+      "applicants": 298,
+      "overallOfferRate": 12.8,
+      "but3Applicants": 36,
+      "but3Offers": 8,
+      "but3OfferRate": 22.2,
+      "but3Acceptances": 3,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-paris-8-vincennes-saint-denis-transitions-numeriques-ini",
+    "type": "master",
+    "institution": "Université Paris 8 - Vincennes - Saint-Denis",
+    "degree": "Diplôme national de master — HUMANITES NUMERIQUES",
+    "title": "Transitions numériques",
+    "specialty": "Produit & projets numériques",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Saint-Denis",
+    "latitude": 48.9362,
+    "longitude": 2.3574,
+    "region": "Île-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 6,
+    "portfolio": "non documenté",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet numérique",
+      "Communication digitale",
+      "Médiation numérique"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 6,
+      "applicants": 58,
+      "overallOfferRate": 19,
+      "but3Applicants": 3,
+      "but3Offers": 0,
+      "but3OfferRate": 0,
+      "but3Acceptances": 0,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-paris-est-creteil-systemes-distribues-et-technologies-de-la-data-science-alt",
+    "type": "master",
+    "institution": "Université Paris-Est Créteil",
+    "degree": "Diplôme national de master — OPTIQUE, IMAGE, VISION, MULTIMEDIA",
+    "title": "Systèmes distribués et technologies de la data science",
+    "specialty": "Audiovisuel & 3D",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Créteil",
+    "latitude": 48.7904,
+    "longitude": 2.4556,
+    "region": "Île-de-France",
+    "mode": "alternance",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 23,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet audiovisuel",
+      "Conception multimédia",
+      "Postproduction"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 23,
+      "applicants": 256,
+      "overallOfferRate": 5.1,
+      "but3Applicants": 58,
+      "but3Offers": 4,
+      "but3OfferRate": 6.9,
+      "but3Acceptances": 2,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-paris-est-creteil-systemes-distribues-et-technologies-de-la-data-science-ini",
+    "type": "master",
+    "institution": "Université Paris-Est Créteil",
+    "degree": "Diplôme national de master — OPTIQUE, IMAGE, VISION, MULTIMEDIA",
+    "title": "Systèmes distribués et technologies de la data science",
+    "specialty": "Audiovisuel & 3D",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Créteil",
+    "latitude": 48.7904,
+    "longitude": 2.4556,
+    "region": "Île-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 14,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Chef de projet audiovisuel",
+      "Conception multimédia",
+      "Postproduction"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 14,
+      "applicants": 251,
+      "overallOfferRate": 14.3,
+      "but3Applicants": 55,
+      "but3Offers": 11,
+      "but3OfferRate": 20,
+      "but3Acceptances": 4,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  },
+  {
+    "id": "master-universite-sorbonne-paris-nord-sciences-du-jeu-ini",
+    "type": "master",
+    "institution": "Université Sorbonne Paris Nord",
+    "degree": "Diplôme national de master — SCIENCES DE L'EDUCATION ET DE LA FORMATION",
+    "title": "Sciences du jeu",
+    "specialty": "Jeu vidéo",
+    "status": "public",
+    "recognition": "DNM — grade de master",
+    "city": "Villetaneuse",
+    "latitude": 48.9562,
+    "longitude": 2.3413,
+    "region": "Île-de-France",
+    "mode": "initial",
+    "entry": "BUT3 / bac+3",
+    "directYear2": "non",
+    "duration": "2 ans",
+    "cost": "Droits nationaux + CVEC (montant annuel à vérifier)",
+    "capacity": 16,
+    "portfolio": "probable — vérifier la fiche",
+    "mmiEligibility": "plausible, non explicitée dans cette statistique",
+    "evidence": "estimation",
+    "confidence": "moyenne",
+    "prerequisites": [
+      "Dossier cohérent avec la spécialité",
+      "Projet motivé",
+      "Portfolio conseillé si créatif"
+    ],
+    "outcomes": [
+      "Game designer",
+      "Chef de projet jeu",
+      "Concepteur d’expériences"
+    ],
+    "statistics": {
+      "year": 2025,
+      "places": 16,
+      "applicants": 59,
+      "overallOfferRate": 55.9,
+      "but3Applicants": 2,
+      "but3Offers": 2,
+      "but3OfferRate": 100,
+      "but3Acceptances": 1,
+      "warning": "Taux tous BUT3 confondus : ce n’est pas un taux MMI."
+    },
+    "sources": [
+      {
+        "label": "Mon Master — données ouvertes 2025",
+        "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+        "level": "officielle"
+      },
+      {
+        "label": "Mon Master — plateforme nationale",
+        "url": "https://www.monmaster.gouv.fr/",
+        "level": "officielle"
+      }
+    ],
+    "verifiedAt": "2026-07-21",
+    "dataVersion": "2025.1"
+  }
+]
